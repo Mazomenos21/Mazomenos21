@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>Soy Stiven Mazo, nacido en Medellín, Colombia. Mi trayectoria incluye una formación técnica en desarrollo de software y una titulación en ingeniería informática, respaldada por diversos certificados de cursos de plataformas de renombre como Udemy, el SENA y Coursera.<br><br>Soy una persona de principios sólidos, caracterizada por mi responsabilidad, respeto, humildad y mi insaciable sed de conocimiento en el campo tecnológico. Me esfuerzo constantemente por mantenerme al día con las últimas tendencias y avances.<br><br>Además, poseo un excelente dominio del idioma inglés, lo que me permite acceder a un mundo global de oportunidades. <br><br><br><br><br><br>
+<br>I am Stiven Mazo, born in Medellín, Colombia. My background includes technical training in software development and a degree in computer engineering, supported by various certificates from renowned platforms such as Udemy, SENA, and Coursera.<br><br>I am a person with strong principles, characterized by my responsibility, respect, humility, and an insatiable thirst for knowledge in the field of technology. I continuously strive to stay up-to-date with the latest trends and advancements.<br><br>Furthermore, I possess an excellent command of the English language, which enables me to access a global world of opportunities.<br><br><br><br><br><br>
 
 
 ## 🌐 Socials:
