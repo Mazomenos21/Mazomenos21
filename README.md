@@ -1,4 +1,4 @@
-👋 About Me
+# 👋 About Me
 
 I’m Stiven Mazo, a computer engineer from Medellín, Colombia.
 
@@ -9,7 +9,7 @@ I’m guided by strong personal principles—responsibility, respect, humility�
 Additionally, I have a strong command of the English language and continue to refine it to reach professional fluency.
 
 ## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/stiven_mazo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/stiven-mazo) [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)](https://github.com/Mazomenos21)
+[![Website](https://img.shields.io/badge/Website-%23000000.svg?logo=google-chrome&logoColor=white)](https://website.mazomenos21.com/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/stiven_mazo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/stiven-mazo-87040a207/) [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)](https://github.com/Mazomenos21)
 
 # 💻 Tech Stack
 
