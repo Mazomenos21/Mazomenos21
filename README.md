@@ -1,12 +1,12 @@
 # 👋 About Me
 
-I’m Stiven Mazo, a computer engineer from Medellín, Colombia.
+Experienced Software Developer and Computer Engineer with a passion for building robust, scalable, and cloud-ready solutions that drive business value. At Total Civil Construction, I design and implement internal systems, automate workflows, and build dashboards that inform decision-making and optimize operations.
 
-I have a solid technical foundation built through formal training in software development, a degree in Computer Engineering, and multiple certifications from platforms such as Udemy, SENA, and Coursera.
+I hold a degree in Computer Engineering and a diploma in Data Analysis, complemented by certifications in AWS, cybersecurity and cloud technologies. I enjoy translating complex business needs into clean, efficient code and reliable cloud architectures.
 
-I’m guided by strong personal principles—responsibility, respect, humility—and by a genuine passion for continuous learning. I stay consistently engaged with the latest trends, tools, and advancements in technology.
+My strengths include full stack development, cloud infrastructure (AWS/Azure), data analysis and visualization, and automation of processes that save time and reduce errors. I'm continuously learning and focused on best practices in software development, DevOps, and data engineering.
 
-Additionally, I have a strong command of the English language and continue to refine it to reach professional fluency.
+I'm passionate about contributing to teams that value innovation, quality, and practical impact, and I'm open to exciting opportunities where I can grow and make a difference.
 
 ## 🌐 Socials
 [![Website](https://img.shields.io/badge/Website-%23000000.svg?logo=google-chrome&logoColor=white)](https://website.mazomenos21.com/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/stiven_mazo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/stiven-mazo-87040a207/) [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)](https://github.com/Mazomenos21)
